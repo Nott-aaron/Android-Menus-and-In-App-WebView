@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Menus And Webviews</string>
+    <string name="experiment_title">Experiment 8: Implement Menus and WebView in an Android Application</string>
+    <string name="student_name">Spencer Aaron Fernandes</string>
+    <string name="student_usn">25MCAR0123</string>
+    <string name="student_course">MCA General</string>
+    <string name="student_college">Jain College, Bangalore</string>
+    <string name="student_address">Goa</string>
+
+    <!-- Menu items -->
+    <string name="menu_home">Home</string>
+    <string name="menu_open_website">Open Website</string>
+    <string name="menu_about">About / Student Details</string>
+    <string name="menu_exit">Exit</string>
+
+    <!-- Popup Menu items -->
+    <string name="popup_help">Quick Help</string>
+    <string name="popup_contact">Contact Support</string>
+
+    <!-- WebView Activity -->
+    <string name="btn_back">Back</string>
+    <string name="btn_reload">Reload</string>
+    <string name="btn_forward">Forward</string>
+    <string name="url_default">https://www.google.com</string>
+</resources>
