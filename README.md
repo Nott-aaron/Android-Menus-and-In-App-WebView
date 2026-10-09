@@ -297,7 +297,8 @@ The Popup Menu XML defines the secondary actions shown when the popup menu is op
 
 **Status:** Update after testing.
 
-**Screenshot:** `screenshots/testcase1.png`
+**Screenshot:** <img width="746" height="1600" alt="WhatsApp Image 2026-10-09 at 9 55 13 PM" src="https://github.com/user-attachments/assets/5d3a9788-8a82-42c0-bc8a-f15915a5ecf9" />
+
 
 ### Test Case 2: WebView Browsing
 
@@ -314,7 +315,8 @@ The Popup Menu XML defines the secondary actions shown when the popup menu is op
 
 **Status:** Update after testing.
 
-**Screenshot:** `screenshots/testcase2.png`
+**Screenshot:** <img width="746" height="1600" alt="WhatsApp Image 2026-10-09 at 9 55 14 PM" src="https://github.com/user-attachments/assets/0d6d2729-d431-45bc-b7d8-1ecd9855a4e2" />
+
 
 ### Test Case 3: Student Profile
 
@@ -330,7 +332,8 @@ The Popup Menu XML defines the secondary actions shown when the popup menu is op
 
 **Status:** Update after testing.
 
-**Screenshot:** `screenshots/testcase3.png`
+**Screenshot:** <img width="746" height="1600" alt="WhatsApp Image 2026-10-09 at 9 55 14 PM (1)" src="https://github.com/user-attachments/assets/59dfbc6e-3a45-416b-823b-181c0a2fad2d" />
+
 
 ### Test Case 4: WebView Back Navigation
 
@@ -344,7 +347,8 @@ The Popup Menu XML defines the secondary actions shown when the popup menu is op
 
 **Expected Result:** If the WebView has a previous page, it navigates back. Otherwise, the activity follows the application's normal Back behaviour.
 
-**Status:** Update after testing.
+**Screenshot:** <img width="746" height="1600" alt="WhatsApp Image 2026-10-09 at 9 55 14 PM (2)" src="https://github.com/user-attachments/assets/d1d6c11c-7b32-48a7-b6ae-3ac96509e989" />
+
 
 ---
 
